@@ -1,10 +1,12 @@
 # Hydroponics Helper AI
-
+![image](https://github.com/user-attachments/assets/53524b99-660f-4b2c-8e5b-2498e55fa42e)
 ## What's This All About?
 
 Ever wish your hydroponics setup could give you a heads-up when things aren't quite right? That's the idea behind this project! It's a small web server, built with Python and Flask, that connects to the Gemini AI. You feed it sensor data (pH, TDS, temp, humidity) from your system, and it gives you back practical advice or answers your specific hydroponics questions, all thanks to the AI's knowledge.
 
 Think of it as having a little plant and water expert on call!
+
+
 
 ## Cool Things It Does
 
